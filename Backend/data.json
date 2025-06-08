@@ -1,0 +1,184 @@
+[
+  {
+    "title": "Don't Look Up",
+    "image": "Type=31.png",
+    "image1": "Number=20.png",
+    "rating": 4.5,
+    "duration": "2j 18m",
+    "progress": 50,
+    "genres": [
+      "Drama",
+      "Komedi",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "Blue Lock",
+    "image": "Type=5.png",
+    "image1": "Number=5.png",
+    "rating": 4.6,
+    "duration": "24m",
+    "progress": 75,
+    "genres": [
+      "Anime",
+      "Olahraga"
+    ]
+  },
+  {
+    "title": "The Batman",
+    "image": "Type=12.png",
+    "image1": "Number=8.png",
+    "rating": 4.2,
+    "duration": "2j 55m",
+    "progress": 30,
+    "genres": [
+      "Aksi",
+      "Kriminal",
+      "Drama"
+    ]
+  },
+  {
+    "title": "A Man Called Otto",
+    "image": "Type=9.png",
+    "image1": "Number=10.png",
+    "rating": 4.4,
+    "duration": "2j 6m",
+    "progress": 90,
+    "genres": [
+      "Drama",
+      "Komedi"
+    ]
+  },
+  {
+    "title": "Guardian Of The Galaxy",
+    "image": "Type=16.png",
+    "image1": "Number=30.png",
+    "rating": 4.4,
+    "duration": "2j 6m",
+    "progress": 90,
+    "genres": [
+      "Drama",
+      "Komedi"
+    ]
+  },
+  {
+    "title": "Shazam",
+    "image": "Type=2.png",
+    "image1": "Number=2.png",
+    "rating": 4.4,
+    "duration": "2j 6m",
+    "progress": 90,
+    "genres": [
+      "Aksi",
+      "Komedi"
+    ]
+  },
+  {
+    "title": "Megan",
+    "image": "Type=20.png",
+    "image1": "Number=15.png",
+    "rating": 4.4,
+    "duration": "2j 6m",
+    "progress": 90,
+    "genres": [
+      "Aksi",
+      "Komedi"
+    ]
+  },
+  {
+    "title": "Suzume",
+    "image": "Type=11.png",
+    "image1": "Number=14.png",
+    "rating": 4.4,
+    "duration": "2j 6m",
+    "progress": 90,
+    "genres": [
+      "Aksi",
+      "Komedi"
+    ]
+  },
+  {
+    "title": "My Hero Academia",
+    "image": "Type=26.png",
+    "image1": "Number=18.png",
+    "rating": 4.4,
+    "duration": "2j 6m",
+    "progress": 90,
+    "genres": [
+      "Aksi",
+      "Komedi"
+    ]
+  },
+  {
+    "title": "Doctor Strange",
+    "image": "Type=27.png",
+    "image1": "Number=19.png",
+    "rating": 4.4,
+    "duration": "2j 6m",
+    "progress": 90,
+    "genres": [
+      "Aksi",
+      "Komedi"
+    ]
+  },
+  {
+    "title": "Black adam",
+    "image": "Type=28.png",
+    "image1": "Number=21.png",
+    "rating": 4.4,
+    "duration": "2j 6m",
+    "progress": 90,
+    "genres": [
+      "Aksi",
+      "Komedi"
+    ]
+  },
+  {
+    "title": "The Devil All the Time",
+    "image": "Type=29.png",
+    "image1": "Number=22.png",
+    "rating": 4.4,
+    "duration": "2j 6m",
+    "progress": 90,
+    "genres": [
+      "Aksi",
+      "Komedi"
+    ]
+  },
+  {
+    "title": "Ted Lasso",
+    "image": "Type=30.png",
+    "image1": "Number=23.png",
+    "rating": 4.4,
+    "duration": "2j 6m",
+    "progress": 90,
+    "genres": [
+      "Aksi",
+      "Komedi"
+    ]
+  },
+  {
+    "title": "Stuart Little",
+    "image": "Type=13.png",
+    "image1": "Number=24.png",
+    "rating": 4.4,
+    "duration": "2j 6m",
+    "progress": 90,
+    "genres": [
+      "Aksi",
+      "Komedi"
+    ]
+  },
+  {
+    "title": "Dilan 1991",
+    "image": "Type=22.png",
+    "image1": "Number=27.png",
+    "rating": 4.4,
+    "duration": "2j 6m",
+    "progress": 90,
+    "genres": [
+      "Aksi",
+      "Komedi"
+    ]
+  }
+]

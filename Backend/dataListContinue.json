@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Don't Look Up",
+    "image": "Type=31.png",
+    "image1": "Number=20.png",
+    "rating": 4.5,
+    "duration": "2j 18m",
+    "progress": 50,
+    "genres": [
+      "Drama",
+      "Komedi",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "title": "Blue Lock",
+    "image": "Type=5.png",
+    "image1": "Number=20.png",
+    "rating": 4.6,
+    "duration": "24m",
+    "progress": 75,
+    "genres": [
+      "Anime",
+      "Olahraga"
+    ]
+  },
+  {
+    "title": "The Batman",
+    "image": "Type=12.png",
+    "image1": "Number=20.png",
+    "rating": 4.2,
+    "duration": "2j 55m",
+    "progress": 30,
+    "genres": [
+      "Aksi",
+      "Kriminal",
+      "Drama"
+    ]
+  },
+  {
+    "title": "A Man Called Otto",
+    "image": "Type=9.png",
+    "image1": "Number=20.png",
+    "rating": 4.4,
+    "duration": "2j 6m",
+    "progress": 90,
+    "genres": [
+      "Drama",
+      "Komedi"
+    ]
+  },
+  {
+    "title": "Guardian Of The Galaxy",
+    "image": "Type=16.png",
+    "image1": "Number=20.png",
+    "rating": 4.4,
+    "duration": "2j 6m",
+    "progress": 90,
+    "genres": [
+      "Drama",
+      "Komedi"
+    ]
+  }
+]
